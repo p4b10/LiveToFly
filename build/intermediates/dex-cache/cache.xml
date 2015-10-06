@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\usuario\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.2\dfef8e7b1118cc6ea70393e4f4f7ede95de8f4bd\gdx-box2d-1.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dfef8e7b1118cc6ea70393e4f4f7ede95de8f4bd">
+        <dex dex="C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.2-e209a5102a9222f906490ebfdb4cc1206d24e2a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.2\4e8961d210e6451fda0f3c4f5b6a0685d61533b9\gdx-1.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e8961d210e6451fda0f3c4f5b6a0685d61533b9">
+        <dex dex="C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-1.5.2-87c0eafa25cc0b1c7df843892270ea4aef5d6ca5.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.2\51f73ee35e73a6d76fd245f83ec3f6a3316744d5\gdx-backend-android-1.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51f73ee35e73a6d76fd245f83ec3f6a3316744d5">
+        <dex dex="C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.2-6f5f94477a287ebe2558bbfcd96f660113026a94.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\workspace\L2F\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa8e58d594419f439dd435a28d1f12f67e6c7d44">
+        <dex dex="C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\core-1.0-675cb08ad8bb1097b8feddf5d2ed054b516d017b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+C:\Users\usuario\workspace\L2F\android\build\intermediates\classes\debug
+C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\core-1.0-675cb08ad8bb1097b8feddf5d2ed054b516d017b.jar
+C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.2-e209a5102a9222f906490ebfdb4cc1206d24e2a6.jar
+C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.2-6f5f94477a287ebe2558bbfcd96f660113026a94.jar
+C:\Users\usuario\workspace\L2F\android\build\intermediates\pre-dexed\debug\gdx-1.5.2-87c0eafa25cc0b1c7df843892270ea4aef5d6ca5.jar
